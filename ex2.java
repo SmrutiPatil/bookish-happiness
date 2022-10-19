@@ -7,6 +7,7 @@ class ex2 {
     private static void display ( String a ){
         System . out . println (" Got String object .");
     }
+    System.out.println("New add");
     public static void main ( String [] args ) {
         display (1) ;
         display (" Hello ");
